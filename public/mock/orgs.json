@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "name": "AlphaTech",
+    "domain": "alphatech.com",
+    "employees": 1200,
+    "industry": "Fintech",
+    "signals": {
+      "jobPosts30d": 6,
+      "techAddedWithin60d": ["Snowflake"],
+      "orgGrowthYoY": 7,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["LLM"]
+    }
+  },
+  {
+    "id": "2",
+    "name": "Globex",
+    "domain": "globex.com",
+    "employees": 3800,
+    "industry": "SaaS",
+    "signals": {
+      "jobPosts30d": 3,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 4,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["platform", "migration"]
+    }
+  },
+  {
+    "id": "3",
+    "name": "NovaBank",
+    "domain": "novabank.io",
+    "employees": 2200,
+    "industry": "Fintech",
+    "signals": {
+      "jobPosts30d": 5,
+      "techAddedWithin60d": ["Airflow", "Terraform"],
+      "orgGrowthYoY": 12,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["LLM", "platform"]
+    }
+  },
+  {
+    "id": "4",
+    "name": "TerraLogix",
+    "domain": "terralogix.com",
+    "employees": 650,
+    "industry": "Logistics",
+    "signals": {
+      "jobPosts30d": 2,
+      "techAddedWithin60d": ["Kafka"],
+      "orgGrowthYoY": 6,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["migration"]
+    }
+  },
+  {
+    "id": "5",
+    "name": "HealthForge",
+    "domain": "healthforge.health",
+    "employees": 900,
+    "industry": "HealthTech",
+    "signals": {
+      "jobPosts30d": 1,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 3,
+      "fundingWithin90d": true,
+      "initiativeKeywords": []
+    }
+  },
+  {
+    "id": "6",
+    "name": "EduSuite",
+    "domain": "edusuite.co",
+    "employees": 430,
+    "industry": "EdTech",
+    "signals": {
+      "jobPosts30d": 0,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 1,
+      "fundingWithin90d": false,
+      "initiativeKeywords": []
+    }
+  },
+  {
+    "id": "7",
+    "name": "MarketHive",
+    "domain": "markethive.com",
+    "employees": 1500,
+    "industry": "E-commerce",
+    "signals": {
+      "jobPosts30d": 4,
+      "techAddedWithin60d": ["Snowflake"],
+      "orgGrowthYoY": 8,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["platform", "LLM"]
+    }
+  },
+  {
+    "id": "8",
+    "name": "Streamly",
+    "domain": "streamly.tv",
+    "employees": 2100,
+    "industry": "Media",
+    "signals": {
+      "jobPosts30d": 0,
+      "techAddedWithin60d": ["Kafka"],
+      "orgGrowthYoY": 5,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["real-time"]
+    }
+  },
+  {
+    "id": "9",
+    "name": "CloudNest",
+    "domain": "cloudnest.io",
+    "employees": 320,
+    "industry": "Cloud",
+    "signals": {
+      "jobPosts30d": 2,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 9,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["platform", "observability"]
+    }
+  },
+  {
+    "id": "10",
+    "name": "AgriChain",
+    "domain": "agrichain.africa",
+    "employees": 780,
+    "industry": "AgriTech",
+    "signals": {
+      "jobPosts30d": 5,
+      "techAddedWithin60d": ["Airflow"],
+      "orgGrowthYoY": 10,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["migration"]
+    }
+  },
+  {
+    "id": "11",
+    "name": "RideWave",
+    "domain": "ridewave.app",
+    "employees": 2600,
+    "industry": "Mobility",
+    "signals": {
+      "jobPosts30d": 6,
+      "techAddedWithin60d": ["Kafka", "Snowflake"],
+      "orgGrowthYoY": 4,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["platform", "reliability"]
+    }
+  },
+  {
+    "id": "12",
+    "name": "FinSight",
+    "domain": "finsight.ai",
+    "employees": 540,
+    "industry": "AI",
+    "signals": {
+      "jobPosts30d": 1,
+      "techAddedWithin60d": ["Terraform"],
+      "orgGrowthYoY": 6,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["LLM"]
+    }
+  },
+  {
+    "id": "13",
+    "name": "RetailOps",
+    "domain": "retailops.com",
+    "employees": 1100,
+    "industry": "Retail",
+    "signals": {
+      "jobPosts30d": 0,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 7,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["platform"]
+    }
+  },
+  {
+    "id": "14",
+    "name": "TravelNest",
+    "domain": "travelnest.com",
+    "employees": 1400,
+    "industry": "Travel",
+    "signals": {
+      "jobPosts30d": 2,
+      "techAddedWithin60d": ["Airflow"],
+      "orgGrowthYoY": 5,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["data platform", "migration"]
+    }
+  },
+  {
+    "id": "15",
+    "name": "FoodVerse",
+    "domain": "foodverse.io",
+    "employees": 360,
+    "industry": "FoodTech",
+    "signals": {
+      "jobPosts30d": 3,
+      "techAddedWithin60d": ["Terraform"],
+      "orgGrowthYoY": 2,
+      "fundingWithin90d": true,
+      "initiativeKeywords": []
+    }
+  },
+  {
+    "id": "16",
+    "name": "QuantumPay",
+    "domain": "quantumpay.com",
+    "employees": 2900,
+    "industry": "Fintech",
+    "signals": {
+      "jobPosts30d": 7,
+      "techAddedWithin60d": ["Snowflake", "Airflow", "Terraform"],
+      "orgGrowthYoY": 9,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["LLM", "platform", "migration"]
+    }
+  },
+  {
+    "id": "17",
+    "name": "MedLink",
+    "domain": "medlink.health",
+    "employees": 870,
+    "industry": "HealthTech",
+    "signals": {
+      "jobPosts30d": 1,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 6,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["integration"]
+    }
+  },
+  {
+    "id": "18",
+    "name": "GameSphere",
+    "domain": "gamesphere.gg",
+    "employees": 410,
+    "industry": "Gaming",
+    "signals": {
+      "jobPosts30d": 0,
+      "techAddedWithin60d": ["Kafka"],
+      "orgGrowthYoY": 4,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["streaming"]
+    }
+  },
+  {
+    "id": "19",
+    "name": "BuildWorks",
+    "domain": "buildworks.dev",
+    "employees": 190,
+    "industry": "DevTools",
+    "signals": {
+      "jobPosts30d": 2,
+      "techAddedWithin60d": ["Terraform"],
+      "orgGrowthYoY": 6,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["platform", "observability"]
+    }
+  },
+  {
+    "id": "20",
+    "name": "SecureNet",
+    "domain": "securenet.io",
+    "employees": 1500,
+    "industry": "Security",
+    "signals": {
+      "jobPosts30d": 5,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 6,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["migration", "platform"]
+    }
+  },
+  {
+    "id": "21",
+    "name": "PaySphere",
+    "domain": "paysphere.africa",
+    "employees": 730,
+    "industry": "Fintech",
+    "signals": {
+      "jobPosts30d": 1,
+      "techAddedWithin60d": ["Airflow"],
+      "orgGrowthYoY": 5,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["risk", "LLM"]
+    }
+  },
+  {
+    "id": "22",
+    "name": "ShipSmart",
+    "domain": "shipsmart.com",
+    "employees": 510,
+    "industry": "Logistics",
+    "signals": {
+      "jobPosts30d": 4,
+      "techAddedWithin60d": ["Kafka"],
+      "orgGrowthYoY": 3,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["platform"]
+    }
+  },
+  {
+    "id": "23",
+    "name": "Insightly",
+    "domain": "insightly.ai",
+    "employees": 260,
+    "industry": "AI",
+    "signals": {
+      "jobPosts30d": 2,
+      "techAddedWithin60d": [],
+      "orgGrowthYoY": 5,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["LLM", "RAG"]
+    }
+  },
+  {
+    "id": "24",
+    "name": "GreenGrid",
+    "domain": "greengrid.energy",
+    "employees": 980,
+    "industry": "Energy",
+    "signals": {
+      "jobPosts30d": 0,
+      "techAddedWithin60d": ["Terraform"],
+      "orgGrowthYoY": 8,
+      "fundingWithin90d": false,
+      "initiativeKeywords": ["platform"]
+    }
+  },
+  {
+    "id": "25",
+    "name": "MetroCart",
+    "domain": "metrocart.com",
+    "employees": 2000,
+    "industry": "E-commerce",
+    "signals": {
+      "jobPosts30d": 6,
+      "techAddedWithin60d": ["Snowflake", "Kafka"],
+      "orgGrowthYoY": 7,
+      "fundingWithin90d": true,
+      "initiativeKeywords": ["migration", "platform"]
+    }
+  }
+]
